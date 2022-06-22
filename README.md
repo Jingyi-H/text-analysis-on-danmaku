@@ -1,4 +1,4 @@
-# danmu-text-analysis
+# danmaku-text-analysis
 bilibili弹幕文本分析
 ### bilibili爬虫
 + 通过requests模块实现
